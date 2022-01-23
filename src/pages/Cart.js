@@ -18,6 +18,7 @@ useEffect(() => {
       },0)
       setTotal(res)
    }
+   //ladies drop it down
    getTotal()
 }, [cart])
 
